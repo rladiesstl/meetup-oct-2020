@@ -22,7 +22,7 @@ options(htmltools.dir.version = FALSE)
 
 - R-Ladies is a world-wide organization with the mission of promoting **gender diversity in the R community**  
 
-- Started in San Francisco in 2012 and now has **193 chapters and more than 73,000** members globally (check out rladies.org for a SHINY dashboard)
+- Started in San Francisco in 2012 and now has **174 chapters and more than 73,000** members globally (check out rladies.org for a SHINY dashboard)
 
 ```{r, echo=FALSE, fig.align="center", out.width='70%'}
 knitr::include_graphics("https://pbs.twimg.com/media/EPlDKUQUcAEq5pw?format=jpg&name=small")
@@ -87,8 +87,8 @@ knitr::include_graphics("https://pbs.twimg.com/media/EPlDKUQUcAEq5pw?format=jpg&
 
 - Meenakshi graduated with an MPH from University of Washington in 2015
 
-- She has worked on environmental health projects including issues around lead poisoning, air pollution and water quality 
+- She has worked on environmental health projects including issues around lead poisoning, air pollution, and water quality 
 
-- She is currently Director of Research at ILK Labs
+- She is currently Director of Research at ILK Labs where she works on cross-cultural collaboration to produce policy-relevant health and environmental data
 
 
