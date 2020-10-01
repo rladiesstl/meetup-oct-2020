@@ -2,5 +2,5 @@
 
 ### An Introduction to Data Visualization in R with ggplot2 with Meenakshi Kushwaha
 
-About R-Ladies St. Louis Intro slides: 
+About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-oct-2020/
 
