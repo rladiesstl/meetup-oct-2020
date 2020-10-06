@@ -15,6 +15,13 @@ options(htmltools.dir.version = FALSE)
 
 # Materials for tonight 
 
+- Install R packages:
+
+  * tidyverse
+  * patchwork
+  * ggrepel
+  * ggforce
+
 
 ---
 
