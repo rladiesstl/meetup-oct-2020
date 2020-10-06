@@ -4,3 +4,5 @@
 
 About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-oct-2020/
 
+Materials for tonight's meetup can be found here: https://github.com/meenakshi-kushwaha/rladies_stl_workshop
+
